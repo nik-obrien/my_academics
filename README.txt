@@ -7,3 +7,5 @@ During my freetime I enjoy typing my formal notes and problem solutions in LaTeX
 During my time as a graduate student I had the privilege of teaching this material to undergraduate students and found I had a real skill and passion for it. 
 
 So I hope these notes/proofs/problem soltuions and whatever else I decide to share here help the next generation of students in STEM.
+
+*test*
