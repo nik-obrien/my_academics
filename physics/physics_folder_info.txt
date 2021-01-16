@@ -1,0 +1,8 @@
+Welcome to the Physics section of this repository!
+
+Each focus will be given a folder (Classical Mechanics, Electrodynamics, Quantum Mechanics etc.)
+
+	Every focus folder will contain three sub-folders (Notes, Proofs, Solutions)
+
+Here I will also list the textbooks used for each focus:
+	Classical Mechanics  - Classical Mechanics (1st Edition) by John R. Taylor
