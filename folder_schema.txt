@@ -1,0 +1,8 @@
+Welcome to the repository!
+
+Initially the goal is to share my own worked solutions to textbook problems. The folder schema will appear as follows:
+
+[field of study]/[sub-field of study]/[textbook used]/[chapter or sub-chapter of problems]
+
+Example:
+physics/classical_mechanics/classical_mechanics_taylor/chapter_1.1_solutions
