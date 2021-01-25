@@ -1,0 +1,13 @@
+Welcome to the repository!
+
+The reasons I choose to type and share my solutions to textbook problems are simple:
+	1. Though I now work as a programmer I still love engaging with math and physics.
+	2. Solving problems is fun and relaxing for me.
+	3. It keeps my mind sharp!
+
+Please note all solutions are my own original work. Some solutions may contain errors or be incorrect. If you find such a solution you may email me at
+
+	nikolas.j.obrien@gmail.com
+
+and I will be happy to make the changes and give you credit. If you are currently a student and find yourself using my solutions to help you in homework
+I strongly encourage you to attempt the problems on your own first and only use my work for confirmation or better understanding if you get stuck.
