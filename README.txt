@@ -2,10 +2,8 @@ Academics - Repository Description
 
 My educational background is in Physics and Math and even though I now work as a programmer I still deeply love the academic pursuits of those fields.
 
-During my freetime I enjoy typing my formal notes and problem solutions in LaTeX and sharing them with the public.
+My initial aim with this repositroy is to post my own original worked solutions to numerous textbook problems (see explanation_of_solutions.txt).
 
-During my time as a graduate student I had the privilege of teaching this material to undergraduate students and found I had a real skill and passion for it. 
+In the future I will consider posting typed proofs and/or course notes that I've taken in an effort to share my understanding of the topics at hand.
 
-So I hope these notes/proofs/problem soltuions and whatever else I decide to share here help the next generation of students in STEM.
-
-*test*
+All work is coded in LaTeX using Overleaf.
