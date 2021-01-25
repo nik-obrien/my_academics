@@ -1,1 +1,5 @@
+This file shares the details of textbooks used in the following folders.
 
+Folder: classical_mechanics_taylor
+Textbook: Classical Mechanics by John R Taylor
+Edition: First
